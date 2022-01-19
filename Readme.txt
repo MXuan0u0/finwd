@@ -1,8 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: BizPage
-Template URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+近來人類過度開墾，全球暖化日趨嚴重，為了讓綠色重回家園，故以賣花回主題
 
 c109181147 revise
